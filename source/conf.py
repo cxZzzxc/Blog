@@ -1,6 +1,6 @@
-project = 'RapidVideOCR'
-copyright = '2023, SWHL'
-author = 'SWHL'
+project = 'Blog'
+copyright = '2025, W'
+author = 'W'
 release = 'v2.1.6'
     
 extensions = [

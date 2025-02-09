@@ -1,9 +1,9 @@
-.. blog documentation master file, created by
-   sphinx-quickstart on Sat Feb  8 00:55:31 2025.
+.. Blog documentation master file, created by
+   sphinx-quickstart on Mon Feb 10 01:14:45 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-blog documentation
+Blog documentation
 ==================
 
 Add your content using ``reStructuredText`` syntax. See the
