@@ -76,3 +76,4 @@ urllib3==2.3.0
 sphinx_rtd_theme
 myst_parser
 sphinxcontrib.mermaid
+sphinx_copybutton
