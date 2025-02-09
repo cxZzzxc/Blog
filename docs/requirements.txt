@@ -73,3 +73,5 @@ sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
 urllib3==2.3.0
     # via requests
+sphinx_rtd_theme
+myst_parser
